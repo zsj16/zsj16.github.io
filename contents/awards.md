@@ -1,13 +1,23 @@
-- National Scholarship of Graduate Student, 2024.
+- programming:C&python&html📃
 
-- First-prize Scholarship of CUMT, 2024.
+- tools and technology:git linux latex💻
 
-- First-prize Scholarship of CUMT, 2023.
+- Areas of Interest:oil painting/go game/singing👂
 
-- Freshman Scholarship of CUMT, 2022.
+- public affair:Class 2302 Organization Committee Member🎈
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- love travelling around and eating various kinds of food😍
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+————————————————————————————————————————————————
 
-- First-prize Scholarship of CUMT, 2019.
+- First Prize:Seedling Track of the "Internet Plus" Innovation and Entrepreneurship Competition in Beijing
+
+- Bronze Award:18th National Soong Ching Ling Children's Invention Award
+
+- Second Prize:2023 Beijing JinPeng Science Forum
+
+- First Prize:2023 Beijing Youth Innovation and Technology Competition
+
+- Amateur Go 2-Dan
+
+- Two-Star Volunteer of "Volunteer Beijing"

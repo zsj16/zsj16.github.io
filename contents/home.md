@@ -1,16 +1,25 @@
+Currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
+#### Contact
+gmail：zhusijia.zsj@gmail.com
+UCAS mail：zhusijia23@mails.ucas.ac.cn
+Twitter：@zhusijia_zsj
+Github：@zhusijia16
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+UCAS(University of Chinese Academy of Sciences) Beijing, China
+B.S. iN COMPUTER SCiENCE 
+•Sep. 2023 ‑ PRESENT
+• GPA:3.64/4.00
+• Ranking:51/93 Comprehensive Ranking:41/86
+Beijing No.8 High School Beijing, China
+YOUNG TALENTS PROGRAM 
+•Sep. 2018 ‑ Jun. 2023
+• Integrated K‑12 System
+• early college entrance exam participation by four years.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+
+#### Research InterestsInstitude of Computing Technology
+ADViSED BY PROFESSOR.FEi SUN Feb. 2025 ‑ Present
+• Learning about the field of Natural Language Processing (NLP),Preraring to focus on Large Language Model (LLM).
 
