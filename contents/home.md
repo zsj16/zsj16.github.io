@@ -1,4 +1,4 @@
-Currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+"The only limit to our realization of tomorrow will be our doubts of today."
 
 #### Contact
 gmail：zhusijia.zsj@gmail.com\
