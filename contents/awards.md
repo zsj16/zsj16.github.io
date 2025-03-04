@@ -1,4 +1,4 @@
-- programming:C&python&html📃
+- programming:C & python & html📃
 
 - tools and technology:git linux latex💻
 

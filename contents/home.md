@@ -3,8 +3,8 @@ Currently pursuing a Master's Degree in Computer Science, at School of Computer 
 #### Contact
 gmail：zhusijia.zsj@gmail.com\
 UCAS mail：zhusijia23@mails.ucas.ac.cn\
-Twitter：[[@zhusijia_zsj]](https://x.com/zhusijia_zsj)\
-Github：@zhusijia16\
+Twitter：[@zhusijia_zsj](https://x.com/zhusijia_zsj)\
+Github：[@zhusijia16](https://github.com/zsj16)
 
 #### Education
 <strong>University of Chinese Academy of Sciences(UCAS)</strong> Beijing, China\
@@ -16,10 +16,10 @@ B.S. iN COMPUTER SCiENCE\
 YOUNG TALENTS PROGRAM \
 • Sep. 2018 ‑ Jun. 2023\
 • Integrated K‑12 System\
-• early college entrance exam participation by four years.\
+• early college entrance exam participation by four years.
 
 
 #### Research InterestsInstitude of Computing Technology
-ADViSED BY PROFESSOR.[[FEi SUN]](https://ofey.me/) Feb. 2025 ‑ Present\
-• Learning about the field of Natural Language Processing (NLP),Preraring to focus on Large Language Model (LLM).\
+ADViSED BY PROFESSOR.[FEi SUN](https://ofey.me/) Feb. 2025 ‑ Present\
+• Learning about the field of Natural Language Processing (NLP),Preraring to focus on Large Language Model (LLM).
 
