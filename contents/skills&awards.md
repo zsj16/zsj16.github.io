@@ -2,7 +2,7 @@
 
 - tools and technology:git linux latex💻
 
-- Areas of Interest:oil painting/go game/singing👂
+- Areas of Interest:oil painting / go game / singing👂
 
 - public affair:Class 2302 Organization Committee Member🎈
 
