@@ -1,5 +1,7 @@
 "The only limit to our realization of tomorrow will be our doubts of today."
 
+“In one word:I am a 16-year-old CS sophomere students in UCAS,with a robot project in my high school earning countless awards.I also has a strong desire to learning new stuffs~"
+
 #### Contact
 gmail：zhusijia.zsj@gmail.com\
 UCAS mail：zhusijia23@mails.ucas.ac.cn\
