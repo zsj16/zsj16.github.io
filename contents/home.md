@@ -11,7 +11,7 @@ Github：[@zhusijia16](https://github.com/zsj16)
 #### Education
 <strong>University of Chinese Academy of Sciences([UCAS](https://www.ucas.edu.cn/))</strong> Beijing, China\
 B.S. iN COMPUTER SCiENCE\
-• Sep. 2023 ‑ PRESENT\
+• Sep. 2023 ‑ PRESENT
 
 <strong>[Beijing No.8 High School](https://www.no8ms.bj.cn/cms/home/)</strong> Beijing, China\
 [YOUNG TALENTS PROGRAM](https://www.no8ms.bj.cn/cms/xwgg/tzgg/000021.html) \
